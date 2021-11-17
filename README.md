@@ -1,0 +1,1 @@
+# Intelligent-Notes-Taker-Optical-Recognition-of-Handwritten-Text
